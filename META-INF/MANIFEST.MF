@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: transunion-demo-app
+Bundle-SymbolicName: transunion-demo-app
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-14
+Automatic-Module-Name: transunion.demo.app
+Export-Package: com.example.demo,
+ com.example.demo.date,
+ com.example.demo.randomNumber
